@@ -1,0 +1,32 @@
+.push:hover{
+  opacity:0.5;
+  color: red
+}
+
+.push1{
+  text-align:center;
+ 
+}
+
+.name{
+  width:480px;
+ 
+}
+
+
+
+.mail{
+  width:480px;
+
+}
+
+.info{
+  height:7rem;
+  width:480px;
+ 
+}
+
+.line{
+  line-height: 4rem;
+}
+
